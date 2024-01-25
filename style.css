@@ -1,0 +1,23 @@
+*{
+    text-align: center;
+}
+h1{color: aqua;}
+nav 
+{
+    background-color:black;
+    color:aliceblue;
+    height:4rem;
+    position: fixed;
+    top: 0;
+    width: 100%;
+    padding: 13px;
+}
+
+nav ul{
+    list-style-type: none;
+}
+
+nav ul li{
+    display: inline;
+    margin-right: 20px;
+}
